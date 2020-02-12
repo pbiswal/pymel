@@ -9,6 +9,7 @@ from builtins import zip
 from builtins import range
 from past.builtins import basestring
 from builtins import *
+from __builtin__ import str
 import inspect
 import re
 import types

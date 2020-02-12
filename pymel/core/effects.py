@@ -4,6 +4,7 @@ from __future__ import division
 from __future__ import absolute_import
 
 from builtins import *
+from __builtin__ import str
 import pymel.internal.factories as _factories
 import pymel.core.general as _general
 if False:

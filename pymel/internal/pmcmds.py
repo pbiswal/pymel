@@ -19,6 +19,7 @@ from __future__ import absolute_import
 
 from past.builtins import basestring
 from builtins import *
+from __builtin__ import str
 import inspect
 import sys
 import re

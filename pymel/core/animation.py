@@ -6,6 +6,7 @@ from __future__ import division
 from builtins import map
 from past.builtins import basestring
 from builtins import *
+from __builtin__ import str
 import pymel.util as _util
 import pymel.internal.factories as _factories
 import pymel.core.general as _general

@@ -4,6 +4,7 @@ from __future__ import absolute_import
 from builtins import range
 from past.builtins import basestring
 from builtins import *
+from __builtin__ import str
 import sys
 import unittest
 import traceback

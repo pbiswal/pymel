@@ -5,6 +5,7 @@ from __future__ import division
 from builtins import range
 from past.builtins import basestring
 from builtins import *
+from __builtin__ import str
 import os
 import re
 import inspect

@@ -5,6 +5,7 @@ from __future__ import division
 from builtins import input
 from builtins import range
 from builtins import *
+from __builtin__ import str
 
 from pymel.util.objectParser import *
 

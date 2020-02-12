@@ -12,6 +12,7 @@ from __future__ import division
 from __future__ import absolute_import
 
 from builtins import *
+from __builtin__ import str
 import re
 import struct
 from maya.OpenMaya import MGlobal as _MGlobal

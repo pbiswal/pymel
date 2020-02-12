@@ -7,6 +7,7 @@ from __future__ import absolute_import
 from __future__ import division
 from builtins import zip
 from builtins import *
+from __builtin__ import str
 from builtins import object
 import os.path
 import sys

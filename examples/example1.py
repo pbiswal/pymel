@@ -384,6 +384,7 @@ from __future__ import division
 from __future__ import absolute_import
 
 from builtins import *
+from __builtin__ import str
 __test__ = False
 
 

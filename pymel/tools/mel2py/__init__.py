@@ -168,6 +168,7 @@ from __future__ import absolute_import
 from __future__ import division
 
 from builtins import *
+from __builtin__ import str
 from . import melparse
 try:
     from pymel.util.external.ply.lex import LexError

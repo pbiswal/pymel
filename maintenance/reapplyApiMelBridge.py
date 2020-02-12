@@ -3,6 +3,7 @@ from __future__ import division
 from __future__ import absolute_import
 #!/usr/bin/env mayapy
 from builtins import *
+from __builtin__ import str
 import inspect
 import os
 import sys

@@ -3,6 +3,7 @@ from __future__ import division
 from __future__ import absolute_import
 #import testingutils
 from builtins import *
+from __builtin__ import str
 import unittest
 import pymel.core.other, pymel.core.system
 

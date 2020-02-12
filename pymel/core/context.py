@@ -6,6 +6,7 @@ from __future__ import division
 from __future__ import absolute_import
 
 from builtins import *
+from __builtin__ import str
 import pymel.internal.factories as _factories
 if False:
     from maya import cmds

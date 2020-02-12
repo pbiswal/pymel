@@ -8,6 +8,7 @@ from __future__ import division
 from __future__ import absolute_import
 
 from builtins import *
+from __builtin__ import str
 import pymel.api.plugins as plugins
 import maya.OpenMaya as om
 import maya.OpenMayaMPx as mpx

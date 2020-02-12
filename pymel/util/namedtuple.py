@@ -4,4 +4,5 @@ from __future__ import absolute_import
 # module just here for backward compatibility
 
 from builtins import *
+from __builtin__ import str
 from collections import namedtuple

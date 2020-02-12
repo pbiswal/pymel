@@ -4,6 +4,7 @@ from __future__ import print_function
 from __future__ import division
 
 from builtins import *
+from __builtin__ import str
 import sys
 import pymel as _pymel
 _pymel.core = sys.modules[__name__]

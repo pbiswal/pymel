@@ -21,6 +21,7 @@ from past.builtins import cmp
 from builtins import map
 from past.builtins import basestring
 from builtins import *
+from __builtin__ import str
 from builtins import object
 import functools
 import re

@@ -4,4 +4,5 @@ from __future__ import print_function
 from __future__ import division
 # this can be imported without having maya fully initialized
 from builtins import *
+from __builtin__ import str
 from .allapi import *

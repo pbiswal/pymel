@@ -8,6 +8,7 @@ from __future__ import absolute_import
 
 from builtins import map
 from builtins import *
+from __builtin__ import str
 import re
 import inspect
 

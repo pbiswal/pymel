@@ -89,6 +89,7 @@ from __future__ import absolute_import
 
 
 from builtins import *
+from __builtin__ import str
 from builtins import object
 import sys
 import os

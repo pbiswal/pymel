@@ -2,6 +2,7 @@ from __future__ import print_function
 from __future__ import division
 from __future__ import absolute_import
 from builtins import *
+from __builtin__ import str
 import unittest
 import pymel.api.allapi as api
 
